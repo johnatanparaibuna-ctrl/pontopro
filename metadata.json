@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "name": "RELÓGIO DE PONTO",
+  "description": "Sistema de gestão de assiduidade com Geofencing de 300m"
+}
